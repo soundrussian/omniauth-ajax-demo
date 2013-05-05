@@ -1,0 +1,10 @@
+/* margin for navbar */
+body {
+  margin-top: 50px;
+}
+
+/* make sign in dropdown prettier */
+.sign-in-dropdown {
+  width: 200px;
+  padding: 10px 15px;
+}
